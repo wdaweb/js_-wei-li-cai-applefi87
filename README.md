@@ -1,6 +1,5 @@
 # 泰山職訓前端班威力彩作業
-使用上課練習完成的 function 製作威力彩號碼產生器  
-將隨機出的數字用 `document.write()` 顯示在網頁上  
+[點此開啟檔案](https://rawcdn.githack.com/wdaweb/js_-wei-li-cai-applefi87/master/index.html)
 
 威力彩規則:
 - A 區 1~38 取 6 個數字
